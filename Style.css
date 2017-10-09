@@ -1,0 +1,79 @@
+/*basic reset*/
+
+
+
+body {
+	background-image:
+    linear-gradient(
+      to right, 
+	  #8b9dc3, #91e842);
+
+}
+
+div{
+	
+}
+.container
+{
+	
+	margin-left: 600px !important;
+	margin-right: 0px !important;
+	padding-right: 0px !important;
+	padding-left: 0px !important;
+	max-width: 1200px !important;
+	
+}
+.column{
+
+}
+.stay{
+	 position: fixed;
+	 left: 1px;
+	 top: 1px;
+}
+
+.row1 {
+	display: flex;
+	
+    
+	
+   
+   
+}
+   
+
+.text{
+	
+	font-size: 30px;
+}
+
+ .siteTitle {
+	position: absolute;
+	white-space: nowrap;
+	
+}
+.sondr{
+	  top:20;
+    left:290;
+
+}
+.aac{
+  top:20;
+    left:145;
+
+}
+.cowboy{
+	  top:20;
+    left:245;
+
+}
+.curnnect{
+  top:20;
+    left:270;
+}
+.thumbnail{
+    position:relative;
+
+}
+canvas 
+{display: block;}
